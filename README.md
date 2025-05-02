@@ -1,17 +1,17 @@
 Auto Registry Readme
 Auto Registry Solution Project in Core Java
-🚗 Vehicle Registration System
-📌 Overview
+Vehicle Registration System
+Overview
 The Auto Registry Solution is a console-based Java application designed to streamline the registration and management of vehicles. Built with Core Java, the system ensures a robust and scalable solution for vehicle registration.
 
-✨ Features
-✅ Register Vehicle – Input details such as registration ID, owner name, model, price, color, Aadhaar number, mobile number, and city.
-✅ View Vehicle Details – Display stored vehicle details.
-✅ Update Vehicle Details – Modify specific details of a registered vehicle.
-✅ User-Friendly Console Interface – Simple menu-driven interactions.
+Features
+Register Vehicle – Input details such as registration ID, owner name, model, price, color, Aadhaar number, mobile number, and city.
+View Vehicle Details – Display stored vehicle details.
+Update Vehicle Details – Modify specific details of a registered vehicle.
+User-Friendly Console Interface – Simple menu-driven interactions.
 
-🛠 Code Structure
-🔹 Vehicle Class
+Code Structure
+Vehicle Class
 Represents a vehicle with the following attributes:
 
 regId (int) – Registration ID
@@ -30,7 +30,7 @@ adhaarno (long) – Owner’s Aadhaar Number
 
 mobno (long) – Owner’s Mobile Number
 
-🔹 Rto Class
+ Rto Class
 Handles key operations:
 
 regVehicle() – Register a new vehicle.
@@ -39,25 +39,26 @@ viewDetails() – Display details of a registered vehicle.
 
 updateVehicle() – Update specific vehicle details.
 
-🔹 Test Class
-Contains the main method, displaying a menu with the following options: 1️⃣ Register a Vehicle
-2️⃣ View Vehicle Details
-3️⃣ Update Vehicle Details
-4️⃣ Exit
+ Test Class
+Contains the main method, displaying a menu with the following options: 
+1️Register a Vehicle
+2️ View Vehicle Details
+3️ Update Vehicle Details
+4️ Exit
 
-🚀 How to Run
-📌 Prerequisites
+How to Run
+Prerequisites
 Ensure you have Java Development Kit (JDK) installed.
 
-📂 Clone Repository
+ Clone Repository
  git clone https://github.com/your-username/vehicle-registration-system.git
-📌 Navigate to Project Directory
+ Navigate to Project Directory
 cd vehicle-registration-system
-🔧 Compile Java Files
+ Compile Java Files
 javac Vehicle.java Rto.java Test.java
-▶️ Run the Application
+Run the Application
 java Test
-📌 Example Console Interaction
+Example Console Interaction
 +++++++++ PM AUTOREGISTRY +++++++++
 1] Registration
 2] View Details
@@ -66,7 +67,4 @@ java Test
 Enter your choice:
 The user interacts by selecting options and providing required details as prompted.
 
-🤝 Contributing
-Feel free to submit pull requests or open issues if you encounter any bugs or have suggestions for improvements.
 
-🔗 Happy Coding! 🚀

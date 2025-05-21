@@ -51,7 +51,7 @@ Prerequisites
 Ensure you have Java Development Kit (JDK) installed.
 
  Clone Repository
- git clone https://github.com/your-username/vehicle-registration-system.git
+ git clone https://github.com/prasadmagdum/Auto_Registry_Solution_Project_in_Core_Java/edit/main
  Navigate to Project Directory
 cd vehicle-registration-system
  Compile Java Files

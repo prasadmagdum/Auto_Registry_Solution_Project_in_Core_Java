@@ -67,4 +67,7 @@ Example Console Interaction
 Enter your choice:
 The user interacts by selecting options and providing required details as prompted.
 
+![image alt](https://github.com/prasadmagdum/Auto_Registry_Solution_Project_in_Core_Java/blob/40f29a41ae7a976ee0e0c8a0582415a50b703b0e/Screenshot%202025-06-19%20195509.png)
+![image alt](https://github.com/prasadmagdum/Auto_Registry_Solution_Project_in_Core_Java/blob/40f29a41ae7a976ee0e0c8a0582415a50b703b0e/Screenshot%202025-06-19%20195704.png)
+![image alt](https://github.com/prasadmagdum/Auto_Registry_Solution_Project_in_Core_Java/blob/40f29a41ae7a976ee0e0c8a0582415a50b703b0e/Screenshot%202025-06-19%20195727.png)
 

@@ -6,12 +6,12 @@ Overview:The Auto Registry Solution is a console-based Java application designed
 
 Features:Register Vehicle – Input details such as registration ID, owner name, model, price, color, Aadhaar number, mobile number, and city.
 
-View Vehicle Details – Display stored vehicle details.
+1)View Vehicle Details – Display stored vehicle details.
 ![image alt](https://github.com/prasadmagdum/Auto_Registry_Solution_Project_in_Core_Java/blob/40f29a41ae7a976ee0e0c8a0582415a50b703b0e/Screenshot%202025-06-19%20195509.png)
 
-Update Vehicle Details – Modify specific details of a registered vehicle.
+2)Update Vehicle Details – Modify specific details of a registered vehicle.
 ![image alt](https://github.com/prasadmagdum/Auto_Registry_Solution_Project_in_Core_Java/blob/40f29a41ae7a976ee0e0c8a0582415a50b703b0e/Screenshot%202025-06-19%20195704.png)
 
-User-Friendly Console Interface – Simple menu-driven interactions.
+3)User-Friendly Console Interface 
 ![image alt](https://github.com/prasadmagdum/Auto_Registry_Solution_Project_in_Core_Java/blob/40f29a41ae7a976ee0e0c8a0582415a50b703b0e/Screenshot%202025-06-19%20195727.png)
 

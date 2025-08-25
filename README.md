@@ -10,5 +10,6 @@ Features:Register Vehicle – Input details such as registration ID, owner name,
 ![image alt](https://github.com/prasadmagdum/Auto_Registry_Solution_Project_in_Core_Java/blob/40f29a41ae7a976ee0e0c8a0582415a50b703b0e/Screenshot%202025-06-19%20195704.png)
 
 3)User-Friendly Console Interface 
+
 ![image alt](https://github.com/prasadmagdum/Auto_Registry_Solution_Project_in_Core_Java/blob/40f29a41ae7a976ee0e0c8a0582415a50b703b0e/Screenshot%202025-06-19%20195727.png)
 

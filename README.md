@@ -1,6 +1,7 @@
 Auto Registry Solution Project in Core Java
 Vehicle Registration System
 Overview:The Auto Registry Solution is a console-based Java application designed to streamline the registration and management of vehicles. Built with Core Java, the system ensures a robust and scalable solution for vehicle registration.
+
 Features:Register Vehicle – Input details such as registration ID, owner name, model, price, color, Aadhaar number, mobile number, and city.
 
 1)View Vehicle Details – Display stored vehicle details.
